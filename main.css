@@ -1,0 +1,24 @@
+body {
+	background: #555;
+	font-family: calibry;
+}
+header {
+	background: #999;
+	color: white
+}
+h1, li {
+	color:black;
+	background-color: white;
+
+}
+ul li{
+	background: black;
+	color: white;
+	display: inline-block;
+	padding: 10px 15px;
+}
+p {
+	background-color: #000;
+	padding: 10px;
+	background: #555;
+}
